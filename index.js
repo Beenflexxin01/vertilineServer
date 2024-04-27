@@ -9,7 +9,11 @@ const Focus = require("./Models/FocusModel");
 const app = express();
 app.use(
   express.json(
-    app.use(cors({ credentials: true, origin: "http://localhost:5173" }))
+    app.use(cors({
+      credentials:
+        // true, origin: "http://localhost:5173"
+        true, origin: "https://vertiline-synergy.onrender.com"
+    }))
   )
 );
 

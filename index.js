@@ -22,8 +22,8 @@ process.on("uncaughtException", (err) => {
   console.log("UNCAUGHT EXCEPTION... Server Is Shutting Down 😪😪!");
 });
 
-dotenv.config({ path: "./Server/config.env" });
-// dotenv.config({ path: "./config.env" });
+// dotenv.config({ path: "./Server/config.env" });
+dotenv.config({ path: "./config.env" });
 
 const DB = process.env.DATABASE.replace(
   "<password>",

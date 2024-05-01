@@ -7,18 +7,18 @@ const Blogs = require("./Models/BlogModel");
 const Portfolio = require("./Models/PortfolioModel");
 const Focus = require("./Models/FocusModel");
 const app = express();
+app.use(express.json());
+
 app.use(
-  express.json(
-    app.use(
-      cors({
-        credentials: true,
-        // origin: "http://localhost:5173",
-        // true, origin: "https://vertiline-synergy.onrender.com"
-        origin: "https://vsl-sand.vercel.app/",
-      })
-    )
-  )
+  cors({
+    credentials: true,
+    // origin: "http://localhost:5173",
+    // true, origin: "https://vertiline-synergy.onrender.com"
+    origin: "https://vsl-sand.vercel.app/",
+  })
 );
+
+app.options("*", cors());
 
 process.on("uncaughtException", (err) => {
   console.log(err.message);

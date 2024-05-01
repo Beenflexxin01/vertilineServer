@@ -5,6 +5,8 @@ const dotenv = require("dotenv");
 const Blogs = require("../Models/BlogModel");
 const Portfolio = require("../Models/PortfolioModel");
 const Focus = require("../Models/FocusModel");
+
+
 dotenv.config({ path: "./Server/config.env" });
 // dotenv.config({ path: "./config.env" });
 

@@ -2,8 +2,8 @@
   {
     "title": "The Hive Outlet Lekki (Restaurant and Lounge)",
     "location": "Lekki, Lagos",
-    "image": "/Server/Image/theHive.jpg",
-    "img": "/Server/Image/hive2.jpg",
+    "image": "/Image/theHive.jpg",
+    "img": "/Image/hive2.jpg",
     "instagram": "https://www.instagram.com/thehive_lekki/",
     "concept": "Concept Development:",
     "concept1": "Menu Engineering",
@@ -26,8 +26,8 @@
     "title": "THE HIVE SURULERE (Members Only Restaurant, Lounge)",
     "concept": "concept",
     "concept1": "3months on-site turn around management",
-    "image": "/Server/Image/theHive.jpg",
-    "img": "/Server/Image/hive2.jpg",
+    "image": "/Image/theHive.jpg",
+    "img": "/Image/hive2.jpg",
     "location": "Surulere, Lagos",
     "instagram": "https://www.instagram.com/thehive_surulere/",
     "turn": "Turnaround management:",
@@ -46,10 +46,10 @@
   {
     "title": "HOUSE 43 LAGOS",
     "location": "Surulere, Lagos",
-    "image": "/Server/Image/houseLogo.jpg",
-    "img": "/Server/Image/house432.jpg",
+    "image": "/Image/houseLogo.jpg",
+    "img": "/Image/house432.jpg",
     "role": "OUR ROLE",
-    "img2": "/Server/Image/house43.jpg",
+    "img2": "/Image/house43.jpg",
     "instagram": "https://www.instagram.com/house43_restaurant/",
     "concept": "Concept",
     "concept1": "Renovation of 14 rooms and bar",
@@ -76,8 +76,8 @@
   {
     "title": "Caravel Suites",
     "location": "Victoria Island, Lagos",
-    "image": "/Server/Image/caravelS.jpg",
-    "img": "/Server/Image/caravel2.jpg",
+    "image": "/Image/caravelS.jpg",
+    "img": "/Image/caravel2.jpg",
 
     "instagram": "https://www.instagram.com/caravelsuites/",
     "concept": "Concept",
@@ -91,8 +91,8 @@
   {
     "title": "Ronin’s Express",
     "location": "Abuja, Nigeria",
-    "image": "/Server/Image/ronin.png",
-    "img": "/Server/Image/ronins.jpg",
+    "image": "/Image/ronin.png",
+    "img": "/Image/ronins.jpg",
 
     "instagram": "https://www.instagram.com/roninsexpress/",
     "concept": "Concept",
@@ -120,8 +120,8 @@
   {
     "title": "The Breakfast Corner",
     "location": "Abuja, Nigeria",
-    "image": "/Server/Image/breakfast.png",
-    "img": "/Server/Image/bf.jpg",
+    "image": "/Image/breakfast.png",
+    "img": "/Image/bf.jpg",
 
     "instagram": "https://www.instagram.com/roninsexpress/",
     "concept": "Concept",
@@ -149,9 +149,9 @@
   {
     "title": "The Lav and Lux Company",
     "location": "Abuja, Nigeria",
-    "image": "/Server/Image/lav.png",
-    "img": "/Server/Image/lav.jpg",
-    "img3": "/Server/Image/lux.jpg",
+    "image": "/Image/lav.png",
+    "img": "/Image/lav.jpg",
+    "img3": "/Image/lux.jpg",
 
     "instagram": "https://www.instagram.com/lavandluxbyfreda/",
     "concept": "Concept",
@@ -169,8 +169,8 @@
     "title": "The Purple Orchid Beauty Salon and Spa",
     "location": "Abuja, Nigeria",
 
-    "image": "/Server/Image/orchid.jpg",
-    "img": "/Server/Image/orchidd.jpg",
+    "image": "/Image/orchid.jpg",
+    "img": "/Image/orchidd.jpg",
 
     "instagram": "https://www.instagram.com/thepurpleorchidspa_abuja/",
     "concept": "Concept",
@@ -193,8 +193,8 @@
   {
     "title": "The Terrace At Mitros",
     "location": "Ogun, Nigeria",
-    "image": "/Server/Image/terrace.png",
-    "img": "/Server/Image/mitro.jpg",
+    "image": "/Image/terrace.png",
+    "img": "/Image/mitro.jpg",
 
     "instagram": "https://www.instagram.com/mitrosresidences_/",
     "concept": "Concept",
@@ -216,7 +216,7 @@
   {
     "title": "Cloth Stop",
     "location": "Dubai, UAE",
-    "image": "/Server/Image/clothstop.png",
+    "image": "/Image/clothstop.png",
 
     "instagram": "https://www.instagram.com/roninsexpress/",
     "concept": "Concept",
@@ -235,8 +235,8 @@
   {
     "title": "Pots and Dishes",
     "location": "Lagos, Nigeria & London, United Kingdom.",
-    "image": "/Server/Image/pots.png",
-    "img": "/Server/Image/dishes.jpg",
+    "image": "/Image/pots.png",
+    "img": "/Image/dishes.jpg",
 
     "instagram": "https://www.instagram.com/potsanddishescatering/",
     "concept": "Concept",
@@ -254,7 +254,7 @@
   {
     "title": "Princess Inn",
     "location": "Abuja, Nigeria.",
-    "image": "/Server/Image/princess.jpg",
+    "image": "/Image/princess.jpg",
 
     "instagram": "https://www.instagram.com/princess.inn/",
     "concept": "Concept",
@@ -274,8 +274,8 @@
   {
     "title": "Barrel Restaurant and Lounge",
     "location": "Lagos, Nigeria.",
-    "image": "/Server/Image/barrel.png",
-    "img": "/Server/Image/barrel1.jpg",
+    "image": "/Image/barrel.png",
+    "img": "/Image/barrel1.jpg",
 
     "instagram": "https://www.instagram.com/barrellounge/",
     "concept": "Concept",

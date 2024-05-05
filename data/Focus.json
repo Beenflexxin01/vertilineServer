@@ -8,7 +8,7 @@
     "sub5": "Motels",
     "sub6": "Hotels",
     "sub7": "Guest House",
-    "image": "./Server/Image/b1.png",
+    "image": "/Image/b1.png",
     "description": "We provide pre-opening consulting services for investors interested in investing in the hotel industry and turn around services for already existing hotels having problems maximizing profit. We provide a wide range of consulting services that commit to offering you solutions to aid the efficiency and profitability of your business.",
     "hotel": "hotel pre-opening consulting services",
     "turnAround": "HOTEL TURNAROUND SERVICES",
@@ -36,7 +36,7 @@
     "sub4": "Virtual Restaurants",
     "sub5": "Bustro",
     "sub6": "Cafeteria",
-    "image": "./Server/Image/b2.png",
+    "image": "/Image/b2.png",
     "description": "We are able to provide 100% of the help and services you will need from day one to opening and management. The success of any restaurant depends on the organization and the standard of the kitchen. We help existing and aspiring restaurateurs through everything from concept development, restaurant design, financial modeling and menu creation to marketing and training.",
     "concept": "Concept Development",
     "conceptText": "Every successful business has its own unique identity. Develop your ideas into concepts. We help in creating our clients brand core values, the vision and general direction of the company. Our team of experts carries out thorough research to analyze the business concept and create an accurate feasibility studies.",
@@ -111,7 +111,7 @@
     "sub2": "Transportation",
     "sub3": "Logistics",
 
-    "image": "./Server/Image/b3.png",
+    "image": "/Image/b3.png",
     "description": "Tourism in the hospitality industry is very important. It encompasses, accommodation, food and beverage and general experiences when visiting a new destination. Businesses in the travel and tourism sector need proper hospitality training and organizational expertise. At VSL, we ensure individuals interested in investing in any travel and tour business achieve full productivity by providing conceptualization, organizational and operational procedures.",
 
     "concept": "Concept Development",
@@ -146,7 +146,7 @@
     "sub4": "Spas",
     "sub5": "Theme Parks",
 
-    "image": "./Server/Image/b4.png",
+    "image": "/Image/b4.png",
     "description": "We ensure individuals interested in investing in any recreation business achieve full productivity by providing conceptualization, organizational and operational procedures.",
     "servInd": "Service Industries",
     "servDesc": "We ensure businesses in the service industry achieve full productivity by providing organizational and operational procedures.",

@@ -4,8 +4,7 @@
   "description": "Vertiline DataBase",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
-    "vercel-build": "nodemon ./build.js"
+    "start": "nodemon index.js"
   },
   "author": "Omotayo A",
   "license": "ISC",

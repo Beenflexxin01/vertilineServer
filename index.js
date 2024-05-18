@@ -12,9 +12,7 @@ app.use(express.json());
 // app.use(
 //   cors({
 //     credentials: true,
-//     // origin: "http://localhost:5173",
-//     // true, origin: "https://vertiline-synergy.onrender.com"
-//     origin: "https://vsl-sand.vercel.app/",
+//     origin: "http://localhost:5173",
 //   })
 // );
 
